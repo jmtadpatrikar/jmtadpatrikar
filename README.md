@@ -1,47 +1,67 @@
 # Joe Tadpatrikar
 
-## Data Analytics Portfolio
+### Data Analyst | Business Intelligence | Insight & Commercial Analysis
 
-I use SQL and Tableau to clean, analyse and visualise data, turning raw datasets into clear business insights and practical recommendations.
+I use SQL and Tableau to turn complex datasets into clear insights, dashboards and recommendations that support better business decisions.
 
-This profile highlights selected projects demonstrating data preparation, exploratory analysis, business-focused investigation and dashboard development.
+I am interested in roles across data analysis, business intelligence, commercial analysis and insight generation.
+
+[LinkedIn](https://www.linkedin.com/in/joe-tadpatrikar/) · [GitHub](https://github.com/jmtadpatrikar) · [Tableau Public](https://public.tableau.com/app/profile/joe.tadpatrikar)
+
+---
+
+## At a glance
+
+<table>
+  <tr>
+    <td align="center"><strong>3</strong><br>portfolio projects</td>
+    <td align="center"><strong>SQL + Tableau</strong><br>core toolkit</td>
+    <td align="center"><strong>99k+</strong><br>orders analysed</td>
+    <td align="center"><strong>150m+</strong><br>reported cases analysed</td>
+  </tr>
+</table>
+
+## Featured dashboard
+
+<p align="center">
+  <a href="https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link">
+    <img src="https://raw.githubusercontent.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio/main/Screenshots/3-category-performance.png" alt="Retail sales category performance dashboard preview" width="700">
+  </a>
+</p>
+
+Retail sales analysis using MySQL and Tableau to identify revenue drivers across products, customers and time periods.
+
+[Open the dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) · [Read the repository](https://github.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio)
 
 ## Projects
 
-| Project | Skills demonstrated | Objective | Key outcome | Dashboard |
-|---|---|---|---|---|
-| [Olist Fulfilment Performance Analysis](https://github.com/jmtadpatrikar/Fulfilment-Performance-Analysis-Portfolio-Project) | MySQL, data cleaning, joins, CTEs, window functions, data validation, Tableau | Identify where performance is lost across the order fulfilment process and examine the relationship between delivery delays and customer reviews. | Analysed 99,092 orders. Late deliveries averaged 2.27/5 compared with 4.29/5 for on-time deliveries. | [View dashboard](https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2) |
-| [Retail Sales Analysis](https://github.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio) | MySQL, data cleaning, duplicate handling, joins, aggregations, SQL views, business analysis, Tableau | Identify the main revenue drivers across time periods, product categories and customer types. | Wholesale customers generated 73.6% of total revenue, while November 2015 was the strongest sales month. | [View dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) |
-| [COVID-19 Exploratory Data Analysis](https://github.com/jmtadpatrikar/Covid-19-Portfolio-Project) | MySQL, exploratory analysis, joins, CTEs, temporary tables, views, window functions, Tableau | Compare reported cases, deaths, infection rates and vaccination progress across countries and continents. | Analysed a historical snapshot covering more than 150 million reported cases and 3 million reported deaths. | [View dashboard](https://public.tableau.com/shared/R2X565H5M?:display_count=n&:origin=viz_share_link) |
+| Project | Skills | Focus |
+|---|---|---|
+| [Olist Fulfilment Performance Analysis](https://github.com/jmtadpatrikar/Fulfilment-Performance-Analysis-Portfolio-Project) | MySQL · data cleaning · joins · CTEs · window functions · Tableau | Identified fulfilment bottlenecks and examined the relationship between delivery delays and customer reviews. [Dashboard](https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2) |
+| [Retail Sales Analysis](https://github.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio) | MySQL · data cleaning · SQL views · aggregations · Tableau | Investigated revenue drivers across time periods, product categories and customer types. [Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) |
+| [COVID-19 Exploratory Data Analysis](https://github.com/jmtadpatrikar/Covid-19-Portfolio-Project) | MySQL · exploratory analysis · CTEs · views · window functions · Tableau | Compared reported cases, deaths, infection rates and vaccination progress across locations. [Dashboard](https://public.tableau.com/shared/R2X565H5M?:display_count=n&:origin=viz_share_link) |
 
-## Core skills
+## Results at a glance
 
-**SQL and data analysis**
+- **Olist fulfilment:** 99,092 orders analysed; late deliveries averaged **2.27/5** compared with **4.29/5** for on-time deliveries.
+- **Retail sales:** Wholesale customers generated **73.6%** of total revenue.
+- **COVID-19 analysis:** Examined a historical snapshot containing more than **150 million reported cases** and **3 million reported deaths**.
 
-- MySQL
-- Data cleaning and transformation
-- Data validation and reconciliation
-- Joins and aggregations
-- Common table expressions
-- Window functions
-- Temporary tables and views
-- Exploratory data analysis
-- KPI and business analysis
+## Core capabilities
 
-**Data visualisation**
+**Data analysis:** Data cleaning, exploratory analysis, KPI development, trend analysis and data validation
 
-- Tableau Public
-- Dashboard development
-- KPI reporting
-- Trend and comparative analysis
-- Preparing SQL outputs for visualisation
-- Communicating findings clearly
+**Business intelligence:** MySQL, joins, aggregations, common table expressions, window functions, views and Tableau dashboards
+
+**Insight generation:** Identifying performance drivers, comparing segments, interpreting trends and making practical recommendations
+
+**Communication:** Presenting findings clearly through dashboards, concise summaries and business-focused conclusions
 
 ## Explore the projects
 
-Each project repository contains the detailed analysis, including the business question, dataset, SQL workflow, analytical approach, findings, recommendations and reproduction instructions.
+Each repository contains the detailed business question, dataset, SQL workflow, analytical approach, findings, recommendations and reproduction instructions.
 
 ## Contact
 
-- GitHub: [jmtadpatrikar](https://github.com/jmtadpatrikar)
-- LinkedIn: [Joe Tadpatrikar](https://www.linkedin.com/in/joe-tadpatrikar/)
+- [LinkedIn](https://www.linkedin.com/in/joe-tadpatrikar/)
+- [GitHub](https://github.com/jmtadpatrikar)
