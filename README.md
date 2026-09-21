@@ -10,28 +10,17 @@ I am interested in roles across data analysis, business intelligence, commercial
 
 ---
 
-## At a glance
-
-<table>
-  <tr>
-    <td align="center"><strong>3</strong><br>portfolio projects</td>
-    <td align="center"><strong>SQL + Tableau</strong><br>core toolkit</td>
-    <td align="center"><strong>99k+</strong><br>orders analysed</td>
-    <td align="center"><strong>150m+</strong><br>reported cases analysed</td>
-  </tr>
-</table>
-
 ## Featured dashboard
 
 <p align="center">
-  <a href="https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link">
-    <img src="https://raw.githubusercontent.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio/main/Screenshots/3-category-performance.png" alt="Retail sales category performance dashboard preview" width="700">
+  <a href="https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2">
+    <img src="./olist-fulfilment-dashboard.png" alt="Olist fulfilment performance dashboard preview" width="900">
   </a>
 </p>
 
-Retail sales analysis using MySQL and Tableau to identify revenue drivers across products, customers and time periods.
+Olist fulfilment analysis using MySQL and Tableau to identify delivery bottlenecks and examine the relationship between fulfilment performance and customer reviews.
 
-[Open the dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) · [Read the repository](https://github.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio)
+[Open the dashboard](https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2) · [Read the repository](https://github.com/jmtadpatrikar/Fulfilment-Performance-Analysis-Portfolio-Project)
 
 ## Projects
 
@@ -40,12 +29,6 @@ Retail sales analysis using MySQL and Tableau to identify revenue drivers across
 | [Olist Fulfilment Performance Analysis](https://github.com/jmtadpatrikar/Fulfilment-Performance-Analysis-Portfolio-Project) | MySQL · data cleaning · joins · CTEs · window functions · Tableau | Identified fulfilment bottlenecks and examined the relationship between delivery delays and customer reviews. [Dashboard](https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2) |
 | [Retail Sales Analysis](https://github.com/jmtadpatrikar/retail-sales-SQL-Tableau-portfolio) | MySQL · data cleaning · SQL views · aggregations · Tableau | Investigated revenue drivers across time periods, product categories and customer types. [Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) |
 | [COVID-19 Exploratory Data Analysis](https://github.com/jmtadpatrikar/Covid-19-Portfolio-Project) | MySQL · exploratory analysis · CTEs · views · window functions · Tableau | Compared reported cases, deaths, infection rates and vaccination progress across locations. [Dashboard](https://public.tableau.com/shared/R2X565H5M?:display_count=n&:origin=viz_share_link) |
-
-## Results at a glance
-
-- **Olist fulfilment:** 99,092 orders analysed; late deliveries averaged **2.27/5** compared with **4.29/5** for on-time deliveries.
-- **Retail sales:** Wholesale customers generated **73.6%** of total revenue.
-- **COVID-19 analysis:** Examined a historical snapshot containing more than **150 million reported cases** and **3 million reported deaths**.
 
 ## Core capabilities
 
