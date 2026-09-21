@@ -44,4 +44,4 @@ Each project repository contains the detailed analysis, including the business q
 ## Contact
 
 - GitHub: [jmtadpatrikar](https://github.com/jmtadpatrikar)
-- LinkedIn: Add your LinkedIn profile link
+- [LinkedIn](https://www.linkedin.com/in/joe-tadpatrikar/)
