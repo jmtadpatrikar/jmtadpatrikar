@@ -12,11 +12,7 @@ I am interested in roles across data analysis, business intelligence, commercial
 
 ## Featured dashboard
 
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/joe.tadpatrikar/viz/OlistFulfilmentPerformanceDashboard/Dashboard2">
-    <img src="./olist-fulfilment-dashboard.png" alt="Olist fulfilment performance dashboard preview" width="900">
-  </a>
-</p>
+<img width="940.5" height="607.5" alt="Screenshot 2026-09-17 at 12 29 36" src="https://github.com/user-attachments/assets/e14ad699-79ce-4344-b0e8-511a038aab72" />
 
 Olist fulfilment analysis using MySQL and Tableau to identify delivery bottlenecks and examine the relationship between fulfilment performance and customer reviews.
 
