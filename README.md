@@ -6,7 +6,7 @@ I use SQL and Tableau to clean, analyse and visualise data, turning raw datasets
 
 This profile highlights selected projects demonstrating data preparation, exploratory analysis, business-focused investigation and dashboard development.
 
-## Selected projects
+## Projects
 
 | Project | Skills demonstrated | Objective | Key outcome | Dashboard |
 |---|---|---|---|---|
